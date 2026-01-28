@@ -1,5 +1,5 @@
 # Uydu Verisi Görselleştirme Aracı
-Bu proje, Copernicus Data Space Ecosystem API'sini kullanarak Sentinel-2 uydu görüntülerini istenen özelliklere uyan görüntülere erişebileceği bir masaüstü uygulamasıdır. Kullanıcıların belirlediği koordinat (enlem/boylam), tarih aralığı ve bulutluluk oranına göre filtreleme yapar ve elde edilen görüntüleri işleyerek arayüzde sunar.
+Bu proje, Copernicus Data Space Ecosystem API'sini kullanarak uydu görüntülerini istenen özelliklere uyan görüntülere erişebileceği bir masaüstü uygulamasıdır. Kullanıcıların belirlediği koordinat (enlem/boylam), tarih aralığı ve bulutluluk oranına göre filtreleme yapar ve elde edilen görüntüleri işleyerek arayüzde sunar.
 
 ## Teknolojiler 
 Proje tamamen Python dili kullanılarak geliştirilmiştir. Kullanılan temel kütüphaneler şunlardır:
